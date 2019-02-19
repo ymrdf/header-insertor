@@ -1,0 +1,29 @@
+{
+  "name": "header-insertor",
+  "version": "0.0.1",
+  "description": "A simple tool to insert text at the beginning of files.",
+  "main": "./bin/cli.js",
+  "bin": {
+    "header-insertor": "./bin/npm-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymrdf/header-insertor.git"
+  },
+  "keywords": [
+    "header",
+    "insert",
+    "node",
+    "javascript"
+  ],
+  "author": "ymrdf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymrdf/header-insertor/issues"
+  },
+  "homepage": "https://github.com/ymrdf/header-insertor#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0"
+  }
+}
