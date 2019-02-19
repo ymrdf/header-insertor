@@ -4,7 +4,7 @@
   "description": "A simple tool to insert text at the beginning of files.",
   "main": "./bin/cli.js",
   "bin": {
-    "header-insertor": "./bin/npm-cli.js"
+    "header-insertor": "./bin/cli.js"
   },
   "repository": {
     "type": "git",

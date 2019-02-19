@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { write } = require('../src/utils.js');
 const args = require("../src/args.js");
 const chalk = require('chalk');
